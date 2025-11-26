@@ -75,4 +75,4 @@ Además, este proyecto demuestra que incluso sistemas simples, como un registro 
 **José David Cuberos**
 
 **Materia:** Bases de Datos  
-**Año:** octbre 2025  
+**Año:** Noviembre 2025
